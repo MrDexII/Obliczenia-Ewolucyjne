@@ -1,0 +1,18 @@
+D:\Pobrane\ae\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.exe.config
+D:\Pobrane\ae\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.exe
+D:\Pobrane\ae\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.pdb
+D:\Pobrane\ae\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.csprojResolveAssemblyReference.cache
+D:\Pobrane\ae\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.exe
+D:\Pobrane\ae\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.exe.config
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.exe.config
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxTurniej\PmxTurniej\bin\Debug\PmxTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxTurniej\PmxTurniej\obj\Debug\PmxTurniej.csprojResolveAssemblyReference.cache

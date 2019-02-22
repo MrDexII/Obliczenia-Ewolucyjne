@@ -1,0 +1,33 @@
+D:\Pobrane\ae\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe.config
+D:\Pobrane\ae\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe
+D:\Pobrane\ae\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.pdb
+D:\Pobrane\ae\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.csprojResolveAssemblyReference.cache
+D:\Pobrane\ae\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.exe
+D:\Pobrane\ae\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe.config
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe.config
+C:\Users\student\Downloads\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\student\Downloads\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\student\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe.config
+C:\Users\student\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\student\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\student\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\student\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\student\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej-PC\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe.config
+C:\Users\Andrzej-PC\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\Andrzej-PC\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\Andrzej-PC\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\Andrzej-PC\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\Andrzej-PC\Desktop\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe.config
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\bin\Debug\PmxRuletkaWartoscowa.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PmxRuletkaWartoscowa\PmxRuletkaWartoscowa\obj\Debug\PmxRuletkaWartoscowa.csprojResolveAssemblyReference.cache

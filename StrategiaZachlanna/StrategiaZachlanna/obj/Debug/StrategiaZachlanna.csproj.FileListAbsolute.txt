@@ -1,0 +1,18 @@
+D:\Pobrane\ae\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.exe.config
+D:\Pobrane\ae\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.exe
+D:\Pobrane\ae\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.pdb
+D:\Pobrane\ae\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.csprojResolveAssemblyReference.cache
+D:\Pobrane\ae\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.exe
+D:\Pobrane\ae\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.exe.config
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.exe.config
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\bin\Debug\StrategiaZachlanna.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\StrategiaZachlanna\StrategiaZachlanna\obj\Debug\StrategiaZachlanna.csprojResolveAssemblyReference.cache

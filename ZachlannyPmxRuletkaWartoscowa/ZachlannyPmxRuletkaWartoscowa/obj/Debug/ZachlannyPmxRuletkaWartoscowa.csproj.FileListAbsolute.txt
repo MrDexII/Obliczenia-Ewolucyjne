@@ -1,0 +1,6 @@
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxRuletkaWartoscowa\ZachlannyPmxRuletkaWartoscowa\bin\Debug\ZachlannyPmxRuletkaWartoscowa.exe.config
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxRuletkaWartoscowa\ZachlannyPmxRuletkaWartoscowa\bin\Debug\ZachlannyPmxRuletkaWartoscowa.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxRuletkaWartoscowa\ZachlannyPmxRuletkaWartoscowa\bin\Debug\ZachlannyPmxRuletkaWartoscowa.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxRuletkaWartoscowa\ZachlannyPmxRuletkaWartoscowa\obj\Debug\ZachlannyPmxRuletkaWartoscowa.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxRuletkaWartoscowa\ZachlannyPmxRuletkaWartoscowa\obj\Debug\ZachlannyPmxRuletkaWartoscowa.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxRuletkaWartoscowa\ZachlannyPmxRuletkaWartoscowa\obj\Debug\ZachlannyPmxRuletkaWartoscowa.pdb

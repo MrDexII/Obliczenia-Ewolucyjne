@@ -1,0 +1,18 @@
+D:\Pobrane\ae\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.exe.config
+D:\Pobrane\ae\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.exe
+D:\Pobrane\ae\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.pdb
+D:\Pobrane\ae\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.csprojResolveAssemblyReference.cache
+D:\Pobrane\ae\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.exe
+D:\Pobrane\ae\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.exe.config
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.exe.config
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\bin\Debug\PrzezWymianePodtrasRuletka.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasRuletka\PrzezWymianePodtrasRuletka\obj\Debug\PrzezWymianePodtrasRuletka.csprojResolveAssemblyReference.cache

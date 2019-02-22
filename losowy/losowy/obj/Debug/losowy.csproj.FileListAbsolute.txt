@@ -1,0 +1,15 @@
+D:\Pobrane\ae\losowy\losowy\bin\Debug\losowy.exe.config
+D:\Pobrane\ae\losowy\losowy\obj\Debug\losowy.csprojResolveAssemblyReference.cache
+D:\Pobrane\ae\losowy\losowy\bin\Debug\losowy.exe
+D:\Pobrane\ae\losowy\losowy\bin\Debug\losowy.pdb
+D:\Pobrane\ae\losowy\losowy\obj\Debug\losowy.exe
+D:\Pobrane\ae\losowy\losowy\obj\Debug\losowy.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\losowy\losowy\bin\Debug\losowy.exe.config
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\losowy\losowy\obj\Debug\losowy.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\losowy\losowy\obj\Debug\losowy.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\losowy\losowy\bin\Debug\losowy.exe.config
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\losowy\losowy\obj\Debug\losowy.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\losowy\losowy\obj\Debug\losowy.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\losowy\losowy\bin\Debug\losowy.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\losowy\losowy\bin\Debug\losowy.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\losowy\losowy\obj\Debug\losowy.csprojResolveAssemblyReference.cache

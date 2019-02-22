@@ -1,0 +1,6 @@
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxTurniej\ZachlannyPmxTurniej\bin\Debug\ZachlannyPmxTurniej.exe.config
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxTurniej\ZachlannyPmxTurniej\bin\Debug\ZachlannyPmxTurniej.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxTurniej\ZachlannyPmxTurniej\bin\Debug\ZachlannyPmxTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxTurniej\ZachlannyPmxTurniej\obj\Debug\ZachlannyPmxTurniej.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxTurniej\ZachlannyPmxTurniej\obj\Debug\ZachlannyPmxTurniej.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\ZachlannyPmxTurniej\ZachlannyPmxTurniej\obj\Debug\ZachlannyPmxTurniej.pdb

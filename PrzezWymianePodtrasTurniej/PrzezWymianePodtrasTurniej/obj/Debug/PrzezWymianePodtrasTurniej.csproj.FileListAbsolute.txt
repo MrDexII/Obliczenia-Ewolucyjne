@@ -1,0 +1,13 @@
+D:\Pobrane\ae\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\bin\Debug\PrzezWymianePodtrasTurniej.exe.config
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\bin\Debug\PrzezWymianePodtrasTurniej.exe.config
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\bin\Debug\PrzezWymianePodtrasTurniej.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\bin\Debug\PrzezWymianePodtrasTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\obj\Debug\PrzezWymianePodtrasTurniej.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\obj\Debug\PrzezWymianePodtrasTurniej.exe
+C:\Users\Andrzej-PC\Desktop\AE Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\obj\Debug\PrzezWymianePodtrasTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\bin\Debug\PrzezWymianePodtrasTurniej.exe.config
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\obj\Debug\PrzezWymianePodtrasTurniej.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\obj\Debug\PrzezWymianePodtrasTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\bin\Debug\PrzezWymianePodtrasTurniej.exe
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\bin\Debug\PrzezWymianePodtrasTurniej.pdb
+C:\Users\Andrzej-PC\Desktop\Obliczenia Ewolucyjne Andrzjewski\PrzezWymianePodtrasTurniej\PrzezWymianePodtrasTurniej\obj\Debug\PrzezWymianePodtrasTurniej.csprojResolveAssemblyReference.cache
